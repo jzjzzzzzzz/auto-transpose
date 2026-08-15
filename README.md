@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **Archived on 2026-08-15.** Maintained development has moved to
+> [Music Score Toolkit](https://github.com/jzjzzzzzzz/music-score-toolkit).
+> This repository remains available as a read-only historical record with its
+> original commits, sample files, stars, and issues. See the
+> [migration guide](https://github.com/jzjzzzzzzz/music-score-toolkit/blob/main/MIGRATION.md).
+
+---
+
 # Auto Transpose
 
 Small Python toolkit for music-score conversion and transposition workflows around MuseScore, SmartScore, MusicXML, PDF, and MSCZ files.
